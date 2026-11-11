@@ -17,3 +17,7 @@
 <a href="https://github.com/bariswha/swell">
   <img src="assets/swell-card.svg" width="100%" alt="swell">
 </a>
+
+<a href="https://github.com/bariswha/losslesscut-mcp">
+  <img src="assets/losslesscut-mcp-card.svg" width="100%" alt="losslesscut-mcp">
+</a>
