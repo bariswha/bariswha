@@ -13,3 +13,7 @@
 <a href="https://github.com/bariswha/chorus-for-youtube-music">
   <img src="assets/chorus-ytm-card.svg" width="100%" alt="chorus-for-youtube-music">
 </a>
+
+<a href="https://github.com/bariswha/swell">
+  <img src="assets/swell-card.svg" width="100%" alt="swell">
+</a>
