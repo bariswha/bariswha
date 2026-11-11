@@ -9,3 +9,7 @@
 <a href="https://github.com/bariswha/chorus-for-soundcloud">
   <img src="assets/chorus-card.svg" width="100%" alt="chorus-for-soundcloud">
 </a>
+
+<a href="https://github.com/bariswha/chorus-for-youtube-music">
+  <img src="assets/chorus-ytm-card.svg" width="100%" alt="chorus-for-youtube-music">
+</a>
